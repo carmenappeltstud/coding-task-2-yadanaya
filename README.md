@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19857917&assignment_repo_type=AssignmentRepo)
 Aufgabe 2: Weiterentwicklung der Cinephile Engine
 Die bestehende Film-Recommender-App läd aus der movies.db (Datenbank wurde aus data_with_ratings.csv generiert; data_with_ratings.csv soll zur Laufzeit nicht verwendet werden) die Filme, die dem vom Nutzer ausgewählten Titel am ähnlichsten sind. Dabei wird die Ähnlichkeit über die Cosine Similarity der Filmbeschreibungen berechnet. Die für die Vorschläge benötigten Filmplakate (Posterbilder) werden über die API von themoviedb bezogen.
 1.	Bugfix – Fehlendes Posterbild
